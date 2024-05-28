@@ -1,8 +1,8 @@
 # csvreader
-Консольное приложение для простой работы с csv-файлами
+Консольное приложение для простой работы с csv-файлами.
 Использование:
 
-```
+```cmd
 windows:
   cd /path/to/application
   csvreader.exe <filepath> <query>
