@@ -4,13 +4,6 @@ using namespace std;
 using fpath = std::filesystem::path;
 
 int main(int argc, char** argv) {
-    char logo[]=
-	"**********************************************\n"
-	"* Nizhny Novgorog State Technical University *\n"
-	"* Study work number 1. Task number 4.        *\n"
-	"* Performed student 23-IVT-2 Pozdniakov M.A. *\n"
-	"**********************************************\n";
-    cout << logo; 
     setlocale(LC_ALL, "Russian");
     
     if (argc <= 1) {
