@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/mozzarella/csvreader/build",
+  "command": "/usr/bin/c++  -I/home/mozzarella/csvreader/build/_deps/json-src/include  -std=c++17 -Wall -g -o CMakeFiles/cvsreader.dir/src/main.cpp.o -c /home/mozzarella/csvreader/src/main.cpp",
+  "file": "/home/mozzarella/csvreader/src/main.cpp"
+},
+{
+  "directory": "/home/mozzarella/csvreader/build",
+  "command": "/usr/bin/c++  -I/home/mozzarella/csvreader/build/_deps/json-src/include  -std=c++17 -Wall -g -o CMakeFiles/cvsreader.dir/src/csv.cpp.o -c /home/mozzarella/csvreader/src/csv.cpp",
+  "file": "/home/mozzarella/csvreader/src/csv.cpp"
+},
+{
+  "directory": "/home/mozzarella/csvreader/build",
+  "command": "/usr/bin/c++  -I/home/mozzarella/csvreader/build/_deps/json-src/include  -std=c++17 -Wall -g -o CMakeFiles/cvsreader.dir/src/tools.cpp.o -c /home/mozzarella/csvreader/src/tools.cpp",
+  "file": "/home/mozzarella/csvreader/src/tools.cpp"
+}
+]

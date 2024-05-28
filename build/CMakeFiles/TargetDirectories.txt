@@ -1,0 +1,5 @@
+/home/mozzarella/csvreader/build/CMakeFiles/cvsreader.dir
+/home/mozzarella/csvreader/build/CMakeFiles/edit_cache.dir
+/home/mozzarella/csvreader/build/CMakeFiles/rebuild_cache.dir
+/home/mozzarella/csvreader/build/_deps/json-build/CMakeFiles/edit_cache.dir
+/home/mozzarella/csvreader/build/_deps/json-build/CMakeFiles/rebuild_cache.dir

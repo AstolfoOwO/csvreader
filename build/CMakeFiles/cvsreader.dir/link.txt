@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wall -g CMakeFiles/cvsreader.dir/src/main.cpp.o CMakeFiles/cvsreader.dir/src/csv.cpp.o CMakeFiles/cvsreader.dir/src/tools.cpp.o -o cvsreader 
