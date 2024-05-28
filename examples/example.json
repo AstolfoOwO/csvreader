@@ -1,0 +1,12 @@
+{
+  "columns": {
+    "name": "0",
+    "age": "1",
+    "city": "2"
+  },
+  "values": [
+    ["John", "35" ,"New York"],
+    ["Jane", "23" ,"Chicago"],
+    ["Doe", "35" ,"Los Angeles"]
+  ]
+}
