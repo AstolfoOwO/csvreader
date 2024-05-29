@@ -10,3 +10,14 @@ linux:
   cd /path/to/application
   ./csvreader <filepath> <query>
 ```
+
+
+Запросы строятся в близком к SQL виде.
+<> - обязательный аругмент
+[] - необязательный агрумент
+```SQL
+"SELECT <column> [WHERE] [condition]"
+"UPDATE SET <setter> [WHERE] [condition]"
+"INSERT <value for columns in order>"
+"DELETE [WHERE] [condition]"
+```
